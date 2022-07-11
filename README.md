@@ -33,7 +33,7 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://github.com/joellhss/404-not-found/blob/master/assets/Captura%20de%20tela%20de%202022-07-11%2016-11-50.png?raw=true)
 
 This project was developed with the aim of practicing responsiveness on websites. Challenged proposed by the devChallenge.
 
