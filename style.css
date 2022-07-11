@@ -71,6 +71,13 @@ a {
     color: #FFFFFF;
     padding: 23px 40px;
 }
+
+a:hover {
+    background-color: #FFFFFF;
+    color: black;
+    border: solid 1px black;
+}
+
 footer {
     margin-top: 114px;
     font-size: 14px;
